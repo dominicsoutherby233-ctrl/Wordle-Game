@@ -11,6 +11,7 @@ drugs
 eerie
 erect
 error
+faced
 farts
 fears
 flush
@@ -32,6 +33,7 @@ learn
 livid
 loads
 loops
+lover
 loves
 maths
 moire
@@ -45,6 +47,7 @@ place
 plack
 plain
 plane
+plant
 plate
 platr
 platr
@@ -80,3 +83,4 @@ trees
 trick
 weeks
 wheel
+wired
