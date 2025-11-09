@@ -92,7 +92,6 @@ def alphab_ize(word_list):
         
     with open(word_list, 'w') as t :
         t.write(temp)
-
 """        
 Main Game Loop
 """

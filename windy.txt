@@ -9,6 +9,7 @@ dried
 drips
 drugs
 eerie
+erect
 error
 farts
 fears
@@ -26,6 +27,7 @@ hello
 hello
 ingot
 kills
+knock
 learn
 livid
 loads
@@ -48,6 +50,7 @@ platr
 platr
 point
 prank
+price
 prick
 print
 rails
